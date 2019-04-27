@@ -12,7 +12,7 @@ asdf plugin-add draft https://github.com/kristoflemmens/asdf-draft.git
 
 ## Use
 
-Check out the [asdf](https://github.com/asdf-vm/asdf) readme for instructions on how to install and manage versions of Draft.
+Check out the [asdf](https://github.com/asdf-vm/asdf) readme for instructions on how to install and manage versions.
 
 ## Credits
 
