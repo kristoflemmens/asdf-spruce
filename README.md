@@ -1,13 +1,13 @@
-# asdf-draft
+# asdf-spruce
 
-[![Build Status](https://travis-ci.org/kristoflemmens/asdf-draft.svg?branch=master)](https://travis-ci.org/kristoflemmens/asdf-draft)
+[![Build Status](https://travis-ci.org/kristoflemmens/asdf-spruce.svg?branch=master)](https://travis-ci.org/kristoflemmens/asdf-spruce)
 
-Draft plugin for [asdf](https://github.com/asdf-vm/asdf) version manager
+spruce plugin for [asdf](https://github.com/asdf-vm/asdf) version manager
 
 ## Install
 
 ```
-asdf plugin-add draft https://github.com/kristoflemmens/asdf-draft.git
+asdf plugin-add spruce https://github.com/kristoflemmens/asdf-spruce.git
 ```
 
 ## Use

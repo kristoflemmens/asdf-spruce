@@ -1,5 +1,5 @@
 language: c
-script: asdf plugin-test draft https://github.com/kristoflemmens/asdf-draft.git
+script: asdf plugin-test spruce https://github.com/kristoflemmens/asdf-spruce.git
 before_script:
   - git clone https://github.com/asdf-vm/asdf.git
   - . asdf/asdf.sh
